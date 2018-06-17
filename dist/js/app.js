@@ -1,1 +1,0 @@
-(function(){var e=document.documentElement;e.classList.remove("no-js");e.classList.add("js")})();(function(){if(!window.localStorage.getItem("hasVisited")){document.querySelector(".Tour").classList.add("is-active");window.localStorage.setItem("hasVisited","true")}})();
